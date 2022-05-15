@@ -1,0 +1,7 @@
+Git commands with their descriptions
+git add - to add a file 
+git commit -m "" - to commit a file with a note in the inverted commas
+git push - to push the file to the repository
+git add . - to add all the recent files which weren't added 
+git status - to check the status of the file
+git remote -v - to show the urls (fetch and push)
