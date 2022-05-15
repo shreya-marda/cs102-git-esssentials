@@ -5,3 +5,6 @@ git push - to push the file to the repository
 git add . - to add all the recent files which weren't added 
 git status - to check the status of the file
 git remote -v - to show the urls (fetch and push)
+
+Description of the class:
+To create a webpage we can use languages like html, markdown, CSS and many more. We can add links, tables and many things to make our webpage more precise and readable. The extension for markdown is .md . In visual studio code on the left we have the names of the folders and files. We isntalled the extension named Markdown All in one for markdown in VScode. We can also clone in VScode like GitHub. In VScode we can use the preview option on the top right to preview whatever we are doing in the code. Markdwon is a lightweight markup language. We can even highlight things to stress or specify something which makes it more readable. We can craete links to amke us reach a particular part of the page to make it more interactive. 
